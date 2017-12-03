@@ -8,7 +8,7 @@
 // @include      http://kissmanga.ru/Anime/*
 // @exclude      http://kissmanga.ru/Anime/*/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
-// @require      http://kissmanga.com/Scripts/ca.js
+// @require      https://cdn.rawgit.com/Eltion/KissManga-Downloader/66f262245f3bf9ab86fb52ccf9f596d2cb527b25/ca.js
 // @require      https://cdn.rawgit.com/Eltion/KissManga-Downloader/11734bc8aee28de5619beacb43e12c608e08478f/lo.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.min.js
 // ==/UserScript==
