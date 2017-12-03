@@ -5,8 +5,8 @@
 // @description  Downloads chapters from kissmanga as pdf.
 // @author       AnimeBro1
 // @match        http://kissmanga.com/Manga/*
-// @include      http://kissmanga.ru/Anime/*
-// @exclude      http://kissmanga.ru/Anime/*/*
+// @include      http://kissmanga.ru/Manga/*
+// @exclude      http://kissmanga.ru/Manga/*/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
 // @require      https://cdn.rawgit.com/Eltion/KissManga-Downloader/66f262245f3bf9ab86fb52ccf9f596d2cb527b25/ca.js
 // @require      https://cdn.rawgit.com/Eltion/KissManga-Downloader/11734bc8aee28de5619beacb43e12c608e08478f/lo.js
